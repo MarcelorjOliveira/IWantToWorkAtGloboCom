@@ -1,19 +1,54 @@
-Vaga
-====
+Marcelo Oliveira Melo
+=========
+<br>
+Experiência
+----
+<br>
+<b>Estagiário desenvolvedor na Universidade Estadual do Norte Fluminense</b>
+- Estágio ocorrido no período de Outubro/2012 a Fevereiro/2013
+- Trabalhou desenvolvendo o sistema de RH da Universidade Estadual do Norte Fluminense.
+- A empresa utilizava a linguagem Ruby on Rails e a metodologia de desenvolvimento ágil XP.
 
-[Preencha aqui a vaga que você pretende]
+<b>Bolsista desenvolvedor na Universidade Estadual do Norte Fluminense</b>
+- Iniciação científica ocorrida nos períodos de Agosto/2009 a Julho/2012
+- Trabalhou no projeto Desenvolvimento do modelo cognitivo para o ambiente virtual de aprendizagem : O Halyen.
+- O ambiente, desenvolvido em Java, tem como objetivo o ensino de Programação Orientada a Objetos para alunos.
+- Ele utiliza a técnica de teste conhecida como Teste de Unidade.
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+<b>Estagiário Web</b>
+- Estágio ocorrido no período de Setembro/2004 a Agosto/2005
+- Desenvolveu sistemas WEB em PHP e MySQL.
+- Desenvolveu um sistema para controle de tempo de máquinas em um laboratório de informática.
 
-CV
-==
+Educação
+----
+<br>
+<b>Caelum Rio</b>
+- Formação Java e J2EE
 
-[Preencha aqui o seu cv]
+<b>Universidade Estadual do Norte Fluminense</b>
+- Graduação em Ciência da computação
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+<b>Colégio Castelo Branco</b>
+- Ensino técnico em Processamento de Dados
+
+Cursos Extracurriculares
+----
+<br>
+<b>FISK</b>
+- Curso de inglês até o avançado.
+
+<b> SENAC rio </b>
+- Montagem e manutenção de computadores
+
+Conhecimentos
+----
+<br>
+Java, JSP, Servlet, Spring, Wordpress, HTML, CSS, Photoshop, Corel
+
+Portfolio
+----
+<br>
+<a href = "www.restauranteescondidinho.com">www.restauranteescondidinho.com</a>
+<br>
+<a href = "http://bemcasadospersonalizados.com.br">http://bemcasadospersonalizados.com.br</a>
